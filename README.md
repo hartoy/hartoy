@@ -1,4 +1,4 @@
-# Hello World! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif" width="55px" alt="hi"> I´m [Ignacio Hardoy](https://www.linkedin.com/in/ignacio-hardoy-14b575a0/). 
+# Hi! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif" width="55px" alt="hi"> I´m [Ignacio Hardoy](https://www.linkedin.com/in/ignacio-hardoy-14b575a0/). 
 <!-- <a href="https://www.linkedin.com/in/ignacio-hardoy-14b575a0/">
   <img align="left" alt="Ignacio Hardoy's Linkedin" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
