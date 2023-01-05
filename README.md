@@ -18,7 +18,6 @@
 
 ### Front End Developer </>
 
-- :mag: Learning **React**
 - :email:  **hartoyy@hotmail.com** <br>
 
 <hr>
