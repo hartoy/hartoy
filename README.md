@@ -32,7 +32,7 @@ const AboutMe = {
    location: Capital Federal, Argentina,
    hobbies: [music, gym, sports]
    },
-  code: [javascript, html5, css, sql],
-  tools: [vscode, git, github] 
+  code: [javascript, html5, css, typescript, react, next, mysql, wordpress],
+  tools: [vscode, git, github, docker] 
 }
 ```
