@@ -13,7 +13,7 @@
 [![Github Badge](https://img.shields.io/badge/-hartoy-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/hartoy)
 [![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-hardoy-14b575a0/) 
 [![Mail Badge](https://img.shields.io/badge/-hartoyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hartoyy@hotmail.com)
-💻💻💻 MY PORTFOLIO :[https://hartoy-movieflix.vercel.app/](https://nachohardoy-web.vercel.app/)  💻💻💻
+💻💻💻 MY PORTFOLIO: [https://hartoy-movieflix.vercel.app/](https://nachohardoy-web.vercel.app/)  💻💻💻
 
 
 ### Front End Developer </>
